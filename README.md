@@ -20,14 +20,15 @@ This won't be too up to date, because sometimes, I make some game design changes
 ## Table of contents:
  - [Game vision](basic_goals.md)
  - [The Galaxy](galaxy.md)
- - [Population]()
- - [Resources and Manufacturing](spaceships.md)
- - [Spaceships]()
- - [People]()
- - [Government]()
- - [Finance]()
+ - [Population](population.md)
+ - [Resources and Manufacturing](resources.md)
+ - [Spaceships](spaceships.md)
+ - [People](people.md)
+ - [Government](politics.md)
+ - [Finance](finance.md) 
  - [International Politics](international_politics.md)
- - [Combat]()
- - [Research]()
+ - [Combat](combat.md)
+ - [Research](research.md)
+ - [Miscellaneous](miscellaneous.md)
 
 
